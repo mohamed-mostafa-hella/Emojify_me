@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emojify</string>
+    <string name="imageview_description">the img that taken</string>
+    <string name="emojify_me">Emojify -_-</string>
+    <string name="go">take photo</string>
+    <string name="error">Error finding image</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+    <string name="load">load img</string>
+</resources>
